@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "main.h"
 #define SIZE 2000
-
+//Bonjour c'est ryry
 int main()
 {
     char s1[SIZE];
