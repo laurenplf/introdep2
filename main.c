@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
-#define SIZE 500
+#define SIZE 5000
 
 int main()
 {
