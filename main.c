@@ -4,7 +4,7 @@
 #define SIZE 2000
 /*eeeeee
   eeeee*/
-//Bonjour c'est RYAAAAAN
+//Bonjour c'est RYAN
 int main()
 {
     char s1[SIZE];
